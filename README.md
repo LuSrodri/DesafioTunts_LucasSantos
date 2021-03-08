@@ -2,7 +2,7 @@
 
 Desafio de integrar google sheets e java com gradle para calcular a média de 3 notas de alunos, e definir se foi aprovado, reprovado por nota, reprovado por faltas na aula.   
 
-## English (google translate)
+
 
 Challenge to integrate google sheets and java with gradle to average 3 students' grades, and to determine if they passed, failed by grade, failed for class absences.
 
